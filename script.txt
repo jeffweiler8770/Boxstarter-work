@@ -1,1 +1,6 @@
 cinst SqlServer2012Express
+cinst paint.net
+cinst 7zip.install
+cinst markdownpad2
+cinst scriptcs
+cinst dotpeek
