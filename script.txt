@@ -1,3 +1,4 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
 cinst mssqlserver2012express
 cinst paint.net
 cinst 7zip.install
