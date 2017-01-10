@@ -1,4 +1,4 @@
-cinst SqlServer2012Express
+cinst mssqlserver2012express
 cinst paint.net
 cinst 7zip.install
 cinst markdownpad2
